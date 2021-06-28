@@ -8,11 +8,11 @@
 	padding: 0;
 	top: 0;
 	left:0;
-	height: 1300px;
+	height: 1800px;
 	width: 100%;
 	display: grid;
   	grid-template-columns: 10% 80% 10%;
-  	grid-template-rows: 360px 300px 360px 250px 1fr;
+  	grid-template-rows: 460px 400px 560px 350px 200px;
   	background: linear-gradient(217deg, rgba(147,42,148,1), rgba(147,42,14,0) 80.71%),
             linear-gradient(127deg, rgba(222,208,88,1), rgba(222,208,88,0) 80.71%),
             linear-gradient(336deg, rgba(3,14,163,1), rgba(34,34,163,0) 80.71%);
